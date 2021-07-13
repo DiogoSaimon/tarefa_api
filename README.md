@@ -1,6 +1,7 @@
 # desafio_api
 
-A new Flutter project.
+Desafio do método get feito pelo Gabul. Feito com base o que foi feito em aula e pelos alunos
+
 
 ![Home](https://user-images.githubusercontent.com/86212446/125491208-f5b7c124-b2f2-47f4-a201-fdde16a3447b.png)
 
